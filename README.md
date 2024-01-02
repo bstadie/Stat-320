@@ -18,9 +18,9 @@ Lecture notes can be found on the course Canvas website.
 
 | Lecture                  |  Date | Lecture | Readings                
 |--------------------------|-------|----------|----------------------------|
-| Week 1, Thursday         | January 4 |   Lecture 1  | Mathematical Statistics and Data Science, Rice — Chapter 1, sec 1 and 2  |
-| Week 2, Tuesday           | January 9  |  Lecture 2  | Rice - Chapter 1, sec 3 and 4 |
-| Week 2. Thursday       | January 11 | Lecture 3 | Rice - Chapter 1, sec 4  |
+| Week 1, Thursday         | January 4 |   Lecture 1  | Mathematical Statistics and Data Science, Rice 1.1, 1.2 |
+| Week 2, Tuesday           | January 9  |  Lecture 2  | Rice 1.3, 1.4 |
+| Week 2. Thursday       | January 11 | Lecture 3 | Rice 1.4  |
 | Week 3, Tuesday            | January 16 | Lecture 4 | Rice 1.5 and 1.6  |
 | Week 3, Thursday         | January 18| Lecture 5 | Rice 2.1 |
 | Week 4, Tuesday            | January 23| Lecture 6 | Rice 2.1  |
