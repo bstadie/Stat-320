@@ -39,13 +39,21 @@ Lecture notes can be found on the course Canvas website.
 
 
 
-# Homeworks and Due Dates
+# Homeworks and Exam Dates
 
 
-| Project title                  | Date released | Due date                
+| Assignment                 | Date released | Due date                
 |--------------------------------|---------------|-------------------------|
-|          |    |   |
-|            |     |   |
-|     |        |  |
-| Final presentation topic proposals |         |     | 
-|  Final presentations        |       |  February 22  |
+| HW 1 |         |     | 
+|  HW 2        |       |  February 22  |
+|  HW 3        |       |  February 22  |
+|  HW 4        |       |  February 22  |
+|  HW 5        |       |  February 22  |
+|  HW 6        |       |  February 22  |
+|  HW 7        |       |  February 22  |
+
+| Exam               | Date | Location               
+|--------------------------------|---------------|-------------------------|
+| Midterm |         |   Feb 3  | 
+|  Final       |       |  February 22  |
+
