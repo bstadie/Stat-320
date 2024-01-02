@@ -31,7 +31,7 @@ Lecture notes can be found on the course Canvas website.
 | Week 6, Thursday       | February 8| Functions of Random Variables cont., Joint Distributions, Multinomial Distribution  | Rice 3.1, 3.2, and 3.5.1 |
 | Week 7, Tuesday           | February 13| Independence, Continuous Joint Distributions, The General Method of Transformations, Convolution |  Rice 3.3 (first two pages and example F), 3.4 (first page), 3.5.2, 3.6 |
 | Week 7, Thursday       | February 15| Expected Values, The Law of Unconscious Statistician, Markov's Inequality  | Rice 4.1 |
-| Week 8, Tuesday       | February 20| Variance, Covariance, Correlation  |  Rice 4.2 |
+| Week 8, Tuesday       | February 20| Variance, Covariance, Correlation, Chebyshev's Inequality  |  Rice 4.2 |
 | Week 8, Thursday   | February 22| Law of Iterated Expectations | |
 | Week 9, Tuesday |  February 27| Moment Generating Functions  | |
 | Week 9, Thursday   |  February 29|  Law of Large Numbers |  |
