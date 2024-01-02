@@ -1,5 +1,13 @@
-# Stat 359 Winter 2024
-Stat 359 course materials
+# Stat 320 Winter 2024
+Stat 320 Course Materials 
+
+
+# Office Hours
+
+| Project title                  | Time | Location              
+|--------------------------------|---------------|-------------------------|
+| Young Ko (TA) |         |     | 
+|  Professor Stadie        |       |  Zoom:  |
 
 
 
