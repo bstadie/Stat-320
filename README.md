@@ -18,7 +18,7 @@ Lecture notes can be found on the course Canvas website.
 
 | Lecture                  |  Date | Material | Readings                
 |--------------------------|-------|----------|----------------------------|
-| Week 1, Thursday         | January 4 |   Introduction  |   |
+| Week 1, Thursday         | January 4 |   Mathematical Statistics and Data Science, Rice — Chapter 1, sec 1 and 2  |   |
 | Week 2, Tuesday           | January 9  | Attention |   |
 | Week 2. Thursday       | January 11 | Transformers |   |
 | Week 3, Tuesday            | January 16 | Coding a transformer |   |
