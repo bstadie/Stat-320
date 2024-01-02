@@ -45,13 +45,13 @@ Lecture notes can be found on the course Canvas website.
 
 | Assignment                 | Date released | Due date                
 |--------------------------------|---------------|-------------------------|
-| HW 1 |         |     | 
-|  HW 2        |       |    |
-|  HW 3        |       |   |
-|  HW 4        |       |   |
-|  HW 5        |       |    |
-|  HW 6        |       |   |
-|  HW 7        |       |    |
+| HW 1 |    Jan 9     |   Jan 16 11:59pm  | 
+|  HW 2        |  Jan 16     |  Jan 23 11:59pm  |
+|  HW 3        |    Jan 23   | Jan 30 11:59pm  |
+|  HW 4        |    Feb 6   |  Feb 13 11:59pm |
+|  HW 5        |    Feb 13   |  Feb 20 11:59pm  |
+|  HW 6        |    Feb 20   |  Feb 27 11:59pm |
+|  HW 7        |    Feb 27   |  Mar 5th 11:59pm  |
 
 | Exam               | Date | Location               
 |--------------------------------|---------------|-------------------------|
