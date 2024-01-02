@@ -55,6 +55,6 @@ Lecture notes can be found on the course Canvas website.
 
 | Exam               | Date | Location               
 |--------------------------------|---------------|-------------------------|
-| Midterm |   Feb 1      | 555 Clark BO3
+| Midterm |   Feb 1      | 555 Clark B03
 |  Final       |  March 12 12-2PM     | TBD| 
 
