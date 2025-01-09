@@ -6,8 +6,9 @@ Stat 320 Course Materials
 
 | Project title                  | Time | Location              
 |--------------------------------|---------------|-------------------------|
-| Young Ko (TA) |  Mondays 1-2pm    | Zoom: [https://northwestern.zoom.us/j/93874161599 ](https://northwestern.zoom.us/j/2592304024)   | 
-|  Professor Stadie        |  Wednesdays 5-5:45pm   |  Zoom: [https://northwestern.zoom.us/j/3799597115] (https://northwestern.zoom.us/j/3799597115) |
+| Young Ko (TA) |  Mondays 1-2pm    | Zoom: https://northwestern.zoom.us/j/93874161599   | 
+|  Professor Stadie        |  Wednesdays 5-5:45pm   |  Zoom: https://northwestern.zoom.us/j/2592304024
+|
 
 
 
