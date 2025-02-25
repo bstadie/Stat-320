@@ -34,7 +34,7 @@ Lecture notes can be found on the course Canvas website.
 | Week 7, Tuesday       | February 18| Expected Values, The Law of Unconscious Statistician, Markov's Inequality  | Rice 4.1 |
 | Week 7, Thursday       | February 20| Variance, Covariance, Correlation, Chebyshev's Inequality  |  Rice 4.2 |
 | Week 8, Tuesday   | February 25| Law of Iterated Expectations | |
-| Week 8, Thursday |  February 27| Three Amigos: Mean, Median, Mode  | |
+| Week 8, Thursday |  February 27| Three Amigos: Mean, Median, Mode, Quantiles, Expectiles  | |
 | Week 9, Tuesday   |  Mar 4 |  Law of Large Numbers |  |
 | Week 9, Thursday   |  March 6 | Central Limit Theorem  |  |
 | Week 10   | Mar 11 and 13 | Reading Week - No Class  |  |
