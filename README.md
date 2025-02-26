@@ -33,10 +33,10 @@ Lecture notes can be found on the course Canvas website.
 | Week 6, Thursday          | February 13| Independence, Continuous Joint Distributions, The General Method of Transformations, Convolution |  Rice 3.3 (first two pages and example F), 3.4 (first page), 3.5.2, 3.6 |
 | Week 7, Tuesday       | February 18| Expected Values, The Law of Unconscious Statistician, Markov's Inequality  | Rice 4.1 |
 | Week 7, Thursday       | February 20| Variance, Covariance, Correlation, Chebyshev's Inequality  |  Rice 4.2 |
-| Week 8, Tuesday   | February 25| Law of Iterated Expectations | |
-| Week 8, Thursday |  February 27| Three Amigos: Mean, Median, Mode, Quantiles, Expectiles  | |
-| Week 9, Tuesday   |  Mar 4 |  Law of Large Numbers |  |
-| Week 9, Thursday   |  March 6 | Central Limit Theorem  |  |
+| Week 8, Tuesday   | February 25| Law of Iterated Expectations | Rice 4.4 |
+| Week 8, Thursday |  February 27| Three Amigos: Mean, Median, Mode, Quantiles, Expectiles  | https://en.wikipedia.org/wiki/Expectile |
+| Week 9, Tuesday   |  Mar 4 |  Law of Large Numbers | Rice 5.2 |
+| Week 9, Thursday   |  March 6 | Central Limit Theorem  | Rice 5.3 |
 | Week 10   | Mar 11 and 13 | Reading Week - No Class  |  |
 | Week 11, Thursday  |  March 20th| In-class Final Exam 12-2PM |  |
 
