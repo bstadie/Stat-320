@@ -53,7 +53,7 @@ Lecture notes can be found on the course Canvas website.
 |  HW 4        |    Feb 6   |  Feb 13 11:59pm |
 |  HW 5        |    Feb 13   |  Feb 20 11:59pm  |
 |  HW 6        |    Feb 20   |  Feb 27 11:59pm |
-|  HW 7        |    Feb 27   |  Mar 6th 11:59pm  |
+|  HW 7        |    Feb 27   |  Mar 7th 11:59pm  |
 
 | Exam               | Date | Location               
 |--------------------------------|---------------|-------------------------|
