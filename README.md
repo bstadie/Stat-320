@@ -58,5 +58,5 @@ Lecture notes can be found on the course Canvas website.
 | Exam               | Date | Location               
 |--------------------------------|---------------|-------------------------|
 | Midterm |   Feb 4      | University Hall 122
-|  Final       |  March 20  12-2PM     | TBD| 
+|  Final       |  March 20  12-2PM     | University Hall 122| 
 
